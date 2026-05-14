@@ -4,7 +4,7 @@
  * Plugin Name: sha Omnibus Lowest Price for WooCommerce
  * Description: Shows the lowest product price from the last 30 days for sale products across WooCommerce loops, single products, cart, checkout, Flatsome UX Builder products blocks, pagination, and AJAX load more results. Adds product edit price history.
  * Version: 1.1.0
- * Author: Bangladesh Software Solution (sha)
+ * Author: shahriar (sha)
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * WC requires at least: 5.0
