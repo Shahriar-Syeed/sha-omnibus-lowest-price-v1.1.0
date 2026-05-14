@@ -1,0 +1,39 @@
+.sha-omnibus-lowest-price {
+    display: block;
+    margin-top: 4px;
+    font-size: 12px;
+    line-height: 1.35;
+    font-weight: 400;
+    color: #777;
+    clear: both;
+}
+
+.product-small .sha-omnibus-lowest-price,
+li.product .sha-omnibus-lowest-price,
+.ux-relay .sha-omnibus-lowest-price {
+    font-size: 11px;
+}
+
+.sha-omnibus-lowest-price__label {
+    color: inherit;
+}
+
+.sha-omnibus-lowest-price__amount,
+.sha-omnibus-lowest-price__amount .amount {
+    color: inherit;
+    font-weight: 600;
+}
+
+.woocommerce-cart .sha-omnibus-lowest-price--cart,
+.widget_shopping_cart .sha-omnibus-lowest-price--cart,
+.woocommerce-mini-cart .sha-omnibus-lowest-price--cart,
+.woocommerce-checkout .sha-omnibus-lowest-price--checkout {
+    margin-top: 5px;
+    font-size: 11px;
+    line-height: 1.35;
+}
+
+.woocommerce-checkout .sha-omnibus-lowest-price--checkout {
+    display: block;
+    margin-left: 0;
+}

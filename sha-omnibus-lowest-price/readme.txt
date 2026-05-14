@@ -1,4 +1,4 @@
-=== BSS Omnibus Lowest Price for WooCommerce ===
+=== SHA Omnibus Lowest Price for WooCommerce ===
 Contributors: Bangladesh Software Solution
 Tags: woocommerce, omnibus, lowest price, flatsome, sale price
 Requires at least: 5.8
@@ -15,11 +15,11 @@ Shows the lowest recorded product price from the selected period for WooCommerce
 * Tracks simple product and variation prices in a custom database table.
 * Shows price changes history inside the product edit price area for simple products.
 * Shows price changes history inside each variation pricing area for variable products.
-* Includes a manual seed button under WooCommerce > BSS Omnibus Price.
-* Includes a shortcode: [bss_omnibus_lowest_price id="123"]
+* Includes a manual seed button under WooCommerce > sha Omnibus Price.
+* Includes a shortcode: [sha_omnibus_lowest_price id="123"]
 
 == Important ==
-The plugin can only calculate the lowest price from recorded prices. After activation, use WooCommerce > BSS Omnibus Price > Seed Current Prices Now to record current product and variation prices as the starting baseline.
+The plugin can only calculate the lowest price from recorded prices. After activation, use WooCommerce > sha Omnibus Price > Seed Current Prices Now to record current product and variation prices as the starting baseline.
 
 == Changelog ==
 = 1.1.0 =
